@@ -1,1 +1,1 @@
-# Simple-GAN-using-Keras-API
+# GAN and WGAN with gradient penalty implemented in Keras API
